@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "stdint.h": "c",
-        "socket.h": "c"
+        "socket.h": "c",
+        "inet.h": "c"
     },
     "C_Cpp.intelliSenseEngineFallback": "Disabled"
 }
